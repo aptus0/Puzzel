@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>GOOGLE_APP_ID</key>
+    <string>Puzzleca-app-pub-3321006469806168~8505064876</string>
+    <key>GCM_SENDER_ID</key>
+    <string>3321006469806168</string>
+    <key>BUNDLE_ID</key>
+    <string>com.puzzleca.app</string>
+    <key>API_KEY</key>
+    <string>AIzaSyDUMMYKEY</string>
+    <key>CLIENT_ID</key>
+    <string>dummy-client-id.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>dummy-reversed-client-id</string>
+</dict>
+</plist>
