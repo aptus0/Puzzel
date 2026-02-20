@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Oyununun+Oynanis+Gifi+Veya+Ekrani" alt="Oyun Ekran Görüntüsü" width="100%">
+  <img src="puzzle-ıamge.png" alt="Oyun Ekran Görüntüsü" width="100%">
   
   <p align="center">
     <i>Zihninizi zorlayacak, sürükleyici ve 3 boyutlu bir iOS bulmaca serüveni.</i>
