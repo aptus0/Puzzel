@@ -1,4 +1,4 @@
-# 🧊 [Oyununun Adı] - 3D Puzzle Experience
+# 🧊 3D Puzzle Experience
 
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-iOS_15.0+-blue?style=for-the-badge&logo=apple" alt="Platform">
@@ -67,8 +67,7 @@ Projeyi yerel ortamınızda test etmek için aşağıdaki adımları izleyin:
    git clone [https://github.com/](https://github.com/)[kullanici-adin]/[repo-adi].git
 Proje Dizinine Gidin:
 
-Bash
-cd [repo-adi]
+
 Xcode'da Açın:
 
 Bash
